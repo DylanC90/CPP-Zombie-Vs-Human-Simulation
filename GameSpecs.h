@@ -15,7 +15,7 @@ const int INTERVAL = 300; // millisecond pause between city steps
 const int ITERATIONS = 1000; // max number of steps
 const char BUILDING_CH = 35; // 35 '#'//ascii for building
 const int BUILDING_COUNT = 20; // how many buildings
-const int STARVE_CHANCE = 15; // chance a zombie will starve each cycle
+const int STARVE_CHANCE = 23; // chance a zombie will starve each cycle
 const bool SILENT_MODE = true; // FOR SPEEDING UP MASS TESTING
 
 //Colors
