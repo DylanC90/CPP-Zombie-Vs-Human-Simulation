@@ -1,4 +1,6 @@
 # Zombie Apocalypse — 2D Predator-Prey Simulation
+<img width="326" height="480" alt="image" src="https://github.com/user-attachments/assets/445f285c-e6c6-445a-a645-d637c8d6a8d7" />
+<img width="408" height="401" alt="image" src="https://github.com/user-attachments/assets/a2bb7bb7-5daf-49a6-b61a-5a84fd5927ea" />
 
 A modified predator-prey simulation set in a zombie apocalypse. Prey are **humans** and predators are **zombies**. These organisms live in a **20 x 20 grid of cells** (a city) and are represented using simple ASCII characters when the grid is printed.
 
